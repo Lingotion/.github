@@ -1,11 +1,14 @@
-# Lingotion Repositories
+# Lingotion
 
-Welcome! This is the main entry point for Lingotion’s projects.
+Welcome to Lingotion! We build **Thespeon** — an AI-powered voice acting engine that brings game characters to life with expressive, multilingual speech synthesis, running directly inside your game engine.
 
-**Unity**
+## Getting Started
 
-[Lingotion Thespeon Unity package](https://github.com/Lingotion/lingotion-thespeon-unity)
+To use Thespeon you first need to register as a developer on the [Lingotion Portal](https://portal.lingotion.com), set up a project, and download a Lingotion Pack. Head over to the [Getting Started](./portal-docs/get-started-webportal.md) guide for a full walkthrough.
 
-**Unreal**
+## Engine Integration
 
-[Lingotion Thespeon Unreal plugin](https://github.com/Lingotion/lingotion-thespeon-unreal)
+Once you have your Lingotion Pack and license key, follow the setup guide for your engine:
+
+- **Unity** — [Lingotion Thespeon Unity Package](https://github.com/Lingotion/lingotion-thespeon-unity)
+- **Unreal** — [Lingotion Thespeon Unreal Plugin](https://github.com/Lingotion/lingotion-thespeon-unreal)
