@@ -1,28 +1,30 @@
 # Get Started - Webportal 
 ## Table of Contents
-- [Overview](#overview)
-- [Developer Registration](#developer-registration)
-- [Creating a Project](#creating-a-project)
-- [Finding the Perfect Actor](#finding-the-perfect-actor)
-	- [Module Type](#module-type) 
-	- [Ethics Level](#ethics-level) 
-	- [Order and Download](#order-and-download)
-- [Next Steps](#next-steps)
+- [Get Started - Webportal](#get-started---webportal)
+	- [Table of Contents](#table-of-contents)
+	- [Overview](#overview)
+	- [Developer Registration](#developer-registration)
+	- [Creating a Project](#creating-a-project)
+	- [Finding the Perfect Actor](#finding-the-perfect-actor)
+		- [Module type](#module-type)
+		- [Ethics Level](#ethics-level)
+		- [Order and Download](#order-and-download)
+	- [Next Steps](#next-steps)
 
 ---
 ## Overview
-This document details a step-by-step guide on how to register as a developer at the Lingotion Developer Portal, as well as how to download _Lingotion Packs_ for your project.
+This document details a step-by-step guide on how to register as a developer at the Lingotion Developer Portal, as well as how to download _.lingotion_ files for your project.
 This process has three main steps:
 1. Register as a Developer on the [Lingotion Portal](https://portal.lingotion.com).
 2. Create a project
-3. Choose an appropriate actor for your project and download its corresponding Lingotion Pack.
+3. Choose an appropriate actor for your project and download its corresponding _.lingotion_ file.
 --- 
 ## Developer Registration
 
 > [!NOTE]
 > For best results, use the Google Chrome browser.
 
-To download Lingotion Packs, you must first register as a Developer on the [Lingotion Portal](https://portal.lingotion.com). Upon your first visit you will be asked to sign up using an email address after which a verification email will be sent before the registration process can begin. 
+To download _.lingotion_ files, you must first register as a Developer on the [Lingotion Portal](https://portal.lingotion.com). Upon your first visit you will be asked to sign up using an email address after which a verification email will be sent before the registration process can begin. 
 
 The first thing you will see are the Lingotion Terms of Service (TOS). Make sure to read these carefully before accepting as it is a legally binding document. An up-to-date TOS can always be found [here](https://portal.lingotion.com/termsofservice) and on any eventual updates to the TOS you will be notified and asked to accept the revision once more on your next login.
 
@@ -40,12 +42,10 @@ The portal consists of the main pages _My Projects_, _Actors_, _Pricing_ and _Us
 ## Creating a Project
 
 A project is a representation of a game title, and can have multiple actors tied to it. Upon first entry to the _My Projects_ page you will see instructions to guide you through creating your first project. Click on the _Create Project_ button and fill in the title, description, and target development platform.
-> [!IMPORTANT]
-> Make sure to choose "*Unreal Engine*" as the Development Platform.
 
 ![create-project screenshot](./pics/create-project.png?raw=true "create-project screenshot")
 
-Once created take care to copy the license key displayed in your project card under the _My Projects_ tab. You will need this later to get started in the Unreal Engine.
+Once created take care to copy the license key displayed in your project card under the _My Projects_ tab. You will need this later to get started in your choice of game engine (development platform).
 
 ![license-key screenshot](./pics/license-copy.png?raw=true "license-key screenshot")
 
@@ -105,11 +105,11 @@ The available actors may have one of two pricing types:
 
 You may find up-to-date pricing numbers under the Pricing tab. 
 
-Upon order you will be asked to select a project to which the actor will be connected, and you will be notified of the Terms of Service applicable to the use of the selected Actor. Once the order has been completed you may download as many instances of the _.lingotion_ pack as you need, and these can be shared with your project colleagues within the limits of the Lingotion Terms of Service. 
+Upon order you will be asked to select a project to which the actor will be connected, and you will be notified of the Terms of Service applicable to the use of the selected Actor. Once the order has been completed you may download as many instances of the _.lingotion_ file as you need, and these can be shared with your project colleagues within the limits of the Lingotion Terms of Service. 
 
 ![select-project screenshot](./pics/select-project.png?raw=true "select-project screenshot")
 
-Before download you will be informed about the contents of the pack that will be downloaded. 
+Before download you will be informed about the contents of the _.lingotion_ file that will be downloaded. 
 
 ![confirm-download screenshot](./pics/confirm-download.png?raw=true "confirm-download screenshot")
 
@@ -118,7 +118,12 @@ Before download you will be informed about the contents of the pack that will be
 
 ## Next Steps
 
-After download of the pack files you are ready to start working with Lingotion Thespeon in Unreal Engine. Go to [Get Started - Unreal](./get-started-unreal.md) for a comprehensive guide in where to go from here and getting set up in Unreal. You may also find useful information about Lingotion and the Thespeon Engine on our [website](https://lingotion.com). 
+After download of the _.lingotion_ files you are ready to start working with Lingotion Thespeon in your game Engine. Follow the setup guide for your engine:
+
+- **Unity** — [Lingotion Thespeon Unity Package](https://github.com/Lingotion/lingotion-thespeon-unity)
+- **Unreal** — [Lingotion Thespeon Unreal Plugin](https://github.com/Lingotion/lingotion-thespeon-unreal)
+
+You may also find useful information about Lingotion and the Thespeon Engine on our [website](https://lingotion.com). 
 
 
 
