@@ -8,7 +8,9 @@ To use Thespeon you first need to register as a developer on the [Lingotion Port
 
 ## Engine Integration
 
-Once you have your _.lingotion_ file and license key, follow the setup guide for your engine:
+Once you have your _.lingotion_ file and license key, follow the setup guide for your engine or platform:
 
+- **Godot** — [Lingotion Thespeon Godot Extension](https://github.com/Lingotion/thespeon-godot) (beta)
+- **libthespeon** — [Lingotion Thespeon C Library and CLI](https://github.com/Lingotion/libthespeon) (beta)
 - **Unity** — [Lingotion Thespeon Unity Package](https://github.com/Lingotion/lingotion-thespeon-unity)
 - **Unreal** — [Lingotion Thespeon Unreal Plugin](https://github.com/Lingotion/lingotion-thespeon-unreal)
